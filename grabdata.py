@@ -5,7 +5,7 @@ import urllib2
 gov_tender_url="http://myprocurement.treasury.gov.my/templates/theme427/keputusantender_arkib.php?sort=&by=&page="
 delimiter = '|'
 bordercoloroftable = '#000000'
-output_file_name = 'Arkib_Keputusan_Tender2.dat'
+output_file_name = 'Arkib_Keputusan_Tender.dat'
 
 #open file
 output_file = open(output_file_name, 'w')
