@@ -1,12 +1,14 @@
 MyProcurementDataScrapper
 =========================
 
-Data Scrapper in Python to grab data from MyProcurement website
+Data Scrapper in Python to grab data from MyProcurement website http://myprocurement.treasury.gov.my
 
 This is a (very) simple Python script to grab data from the Malaysian Government's myProcurement website.
 
 Currently the output is a single delimited file, and by default the delimiter is set to '|' because commas and colons appear in the data. This can be changed by changed the delimiter variable in the code.
-The code was built on Python 2 (27 to be exact), and requires BeautifulSoup to run.
+The code was built on Python 2 (2.7 to be exact), and requires BeautifulSoup to run.
+
+If you're not interested in the code, then the excel file attached in the git contains all the information scrapped. Download the zip containing all the data, and view the excel.
 
 Future enhancements planned:
 -Fix For loop, to loop until no data, rather than the fixed 1020 times now
