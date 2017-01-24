@@ -1,5 +1,7 @@
-MyProcurementDataScrapper
+MyProcurementDataScrapper (Deprecated)
 =========================
+This repository is deprecated and no longer works!! (sorry).
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Data Scrapper in Python to grab data from MyProcurement website http://myprocurement.treasury.gov.my
 
